@@ -1,2 +1,1 @@
-# Qr-code-Generator
-Generate QR Code using qrcode in Python
+Customize Tokens using Spacy
